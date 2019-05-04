@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.png button{
+    padding: 20px;
+    margin: 20px;
+    
+}
+.cart-btn{
+    background-color:#c63928;
+    color: white;
+    font-family: font-family: 'Gugi', cursive;
+    border: none;
+    
+}
+.login-btn{
+    outline: 2px solid #2a61fb;
+    background-color:#fdd835;
+    color: #2a61fb;
+    border: none;
+    font-family: font-family: 'Gugi', cursive;
+
+    
+}
+.signup{
+    background-image: linear-gradient(to right,#5ed0d0 , #9ed38c);
+    border-radius: 20px;
+    width: 180px;
+    border: none;
+    color: white;
+    font-family: font-family: 'Gugi', cursive;
+    
+
+    
+}
+.start{
+    outline: 2px solid #6749ea;
+    background-color: #ffffff;
+    border: none;
+    font-family: font-family: 'Gugi', cursive;
+
+     
+    color:  #6749ea;
+}
+.subscribe{
+    background-image: linear-gradient(#f9c132,#f5a331);
+    width: 180px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #f49f31;
+}
+.twitter{
+    border-radius: 100px;
+    border: 1px solid #39a2f3;
+    
+}
+.twitter i{
+    color: #39a2f3;
+}

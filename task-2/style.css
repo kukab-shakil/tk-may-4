@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: rgb(231, 231, 231);
+    height: 100%
+
+
+}
+.header{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    padding-top: 20px
+}
+.header h1{
+    padding-top: 20px;
+}
+.con-img{
+    width: 100%;
+    height: 80%;
+    background-color: rgb(231, 231, 231);
+}
+.first-row{
+    display: flex;
+    flex-direction: row;
+}
+.first-row img{
+    padding: 20px;
+    margin-left: 80px;
+}
+.second-row{
+    display: flex;
+    flex-direction: row;
+
+}
+.second-row img{
+    padding: 20px;
+    margin-left: 80px
+
+}
+p{
+    text-align: center; 
+    font-family: 'Satisfy', cursive;
+}
